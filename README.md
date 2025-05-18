@@ -1,0 +1,1 @@
+# mass-transit-rabbit-mq
